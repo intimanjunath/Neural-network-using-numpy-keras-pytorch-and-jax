@@ -2,9 +2,6 @@
 
 This repository presents a comprehensive exploration of building a three-layer neural network for a non-linear regression task using various frameworks and techniques. The goal of the project was to demonstrate how to implement the same basic neural network using multiple approaches, ensuring a deep understanding of model construction, data processing, and training mechanisms across different libraries.
 
-## Project Overview
-
-The project focuses on constructing a neural network that consists of an input layer, two hidden layers, and one output layer, designed to learn a non-linear mapping from three input variables to a target value. The target is generated from a non-linear equation with added noise, and the input data is visualized with a 3D scatter plot (using color to represent the target).
 
 ## What Was Accomplished
 
