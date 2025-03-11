@@ -48,5 +48,5 @@ The project was designed to:
 This repository serves as both a learning tool and a reference for building and understanding neural network models from the ground up as well as using high-level libraries for rapid model development.
 
 
-## YouTube link : 
+## YouTube link : https://youtu.be/Vyj3I8uByEk
 ---
