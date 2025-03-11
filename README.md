@@ -36,8 +36,8 @@ https://github.com/intimanjunath/Neural-network-using-numpy-keras-pytorch-and-ja
   - **High-Level API:** A straightforward implementation using the high-level tf.keras.Sequential API, emphasizing ease of use and rapid prototyping.
   - https://github.com/intimanjunath/Neural-network-using-numpy-keras-pytorch-and-jax/blob/main/9_tensorflow_high_level_api_.ipynb
 
-- **JAX Implementation (Planned/Optional):**  
-  An additional implementation using JAX was considered to further extend the exploration of different computational frameworks for neural network training.
+- **TensorFlow ALL varients:**
+- https://github.com/intimanjunath/Neural-network-using-numpy-keras-pytorch-and-jax/blob/main/5_Tensorflow_various_variants.ipynb
 
 ## Educational Objectives
 
@@ -50,4 +50,6 @@ The project was designed to:
 
 This repository serves as both a learning tool and a reference for building and understanding neural network models from the ground up as well as using high-level libraries for rapid model development.
 
+
+## YouTube link : 
 ---
