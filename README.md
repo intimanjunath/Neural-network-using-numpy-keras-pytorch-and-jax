@@ -28,9 +28,13 @@ https://github.com/intimanjunath/Neural-network-using-numpy-keras-pytorch-and-ja
 - **TensorFlow Implementations:**  
   Various TensorFlow approaches were implemented:
   - **Low-Level:** A model constructed using low-level TensorFlow operations (tf.Variable, tf.matmul, tf.GradientTape) to manually handle the training loop.
+  - https://github.com/intimanjunath/Neural-network-using-numpy-keras-pytorch-and-jax/blob/main/6_tensorflow_from_scratch.ipynb
   - **Built-In Layers:** A solution using tf.keras built-in layers (via the Sequential API) to simplify model development.
+  - https://github.com/intimanjunath/Neural-network-using-numpy-keras-pytorch-and-jax/blob/main/7_tensorflow_builtin_layers.ipynb
   - **Functional API:** A model built using the Functional API to provide flexibility in defining complex architectures.
+  - https://github.com/intimanjunath/Neural-network-using-numpy-keras-pytorch-and-jax/blob/main/8_functional_api_tensorflow.ipynb
   - **High-Level API:** A straightforward implementation using the high-level tf.keras.Sequential API, emphasizing ease of use and rapid prototyping.
+  - https://github.com/intimanjunath/Neural-network-using-numpy-keras-pytorch-and-jax/blob/main/9_tensorflow_high_level_api_.ipynb
 
 - **JAX Implementation (Planned/Optional):**  
   An additional implementation using JAX was considered to further extend the exploration of different computational frameworks for neural network training.
