@@ -14,11 +14,16 @@ The project focuses on constructing a neural network that consists of an input l
 - **NumPy-Only Implementation:**  
   A fully from-scratch implementation was developed using only NumPy. This version includes manual computation of the forward pass, loss evaluation, and backpropagation with gradient descent—highlighting the underlying mechanics of neural networks.
 
+https://github.com/intimanjunath/Neural-network-using-numpy-keras-pytorch-and-jax/blob/main/1_NumPy_neural_network.ipynb 
+
 - **PyTorch Implementations:**  
   Multiple approaches were explored:
   - A from-scratch implementation using PyTorch tensors and manual backpropagation without relying on built-in layers.
+  - https://github.com/intimanjunath/Neural-network-using-numpy-keras-pytorch-and-jax/blob/main/2_PyTorch_3layer_neural_network.ipynb 
   - A class-based implementation utilizing PyTorch's `nn.Module` for a modular, object-oriented design.
+  - https://github.com/intimanjunath/Neural-network-using-numpy-keras-pytorch-and-jax/blob/main/3_PyTorch_neural_network_builtin_modules.ipynb 
   - A PyTorch Lightning version to demonstrate a cleaner, higher-level abstraction for model training, logging, and checkpointing.
+  - https://github.com/intimanjunath/Neural-network-using-numpy-keras-pytorch-and-jax/blob/main/4_PyTorch_Lightning.ipynb
 
 - **TensorFlow Implementations:**  
   Various TensorFlow approaches were implemented:
